@@ -1,0 +1,1 @@
+#Basically, the dashboard provide the insights about the overall satisfaction/success rate of their product and their customer type. As well from the dashboard the manager get the look at their best selling zone along with their sales treand. 
